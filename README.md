@@ -1,5 +1,5 @@
 
-#Tahapan Penggunaan
+# Tahapan Penggunaan
 1. Create Database di Mysql pj_suit
 2. Import databse yang ada di folder project/database/pj_suit.sql
 3. Buka file project/.env ("sesuaikan dengan akses koneksi database anda")
