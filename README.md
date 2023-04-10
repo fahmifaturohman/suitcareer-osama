@@ -9,8 +9,8 @@
 
 # Access 
 - Admin 
-    username : admin@gmail.com
-    pass : kosong123
+    -username : admin@gmail.com
+    -password : kosong123
     
 - Klien 
     username : alfamart@gmail.com
